@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    background-color: antiquewhite;
+}
+
+input{
+    width: 50px;
+}
+
+.operations{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin: 20px 2px;
+    background: white;
+    color: black;
+    border: 1px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px 8px;
+}
+
+button:hover{
+    background-color: aqua;
+}
+
+#zero-div-err{
+    color: red;
+    font-weight: 200;
+}
+
+#clear-btn:hover{
+    background-color: rgb(220, 118, 118);
+}
