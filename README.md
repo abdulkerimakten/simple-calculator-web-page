@@ -39,4 +39,4 @@ A simple web-based calculator that allows users to perform basic arithmetic oper
 
 ## Live Demo
 
-Check out the live demo [here](#).
+Check out the live demo [here](https://simple-calculator-web-page.netlify.app).
