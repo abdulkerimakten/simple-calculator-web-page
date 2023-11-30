@@ -36,3 +36,7 @@ A simple web-based calculator that allows users to perform basic arithmetic oper
 1. Open the index.html file in your web browser.
 
 2. Start using the calculator!
+
+## Live Demo
+
+Check out the live demo [here](#).
